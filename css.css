@@ -71,9 +71,9 @@ h1, h3 {
     display: inline;
     margin-right: 20px; }
 .menu li:link {
-    color: rgb(48, 0, 40); }
+    color: rgb(229, 94, 204); }
 .menu li:active {
-    color: rgb(48, 0, 40); }
+    color: rgb(229, 94, 204); }
 .menu li:visited {
     color: rgb(253, 0, 173);}
 .menu li:hover {
